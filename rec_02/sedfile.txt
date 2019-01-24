@@ -1,0 +1,31 @@
+Rrw------- 1 jhw0094 jhw0094  155 Sep 22 11:03 emp1
+Rrw------- 1 jhw0094 jhw0094  124 Sep 22 11:03 emp2
+Rrw------- 1 jhw0094 jhw0094  513 Sep 22 11:03 emp3
+Rrw------- 1 jhw0094 jhw0094   17 Sep 22 11:03 example.txt
+Rrw------- 1 jhw0094 jhw0094   39 Sep 22 11:03 file1.txt
+This is a new line
+Rrw------- 1 jhw0094 jhw0094   82 Sep 22 11:03 file2.txt
+Rrwx------ 1 jhw0094 jhw0094  176 Sep 22 11:03 hello.sh
+Rrw------- 1 jhw0094 jhw0094   74 Sep 22 11:03 helloworld.c
+Rrw------- 1 jhw0094 jhw0094 1064 Sep 22 11:03 helloworld.o
+Rrw------- 1 jhw0094 jhw0094  130 Sep 22 11:03 INPUT
+Rrw------- 1 jhw0094 jhw0094    0 Sep 22 11:02 log.txt
+Rrw------- 1 jhw0094 jhw0094   79 Sep 22 11:03 names2.txt
+Rrw------- 1 jhw0094 jhw0094   85 Sep 22 11:03 names.txt
+Rrw------- 1 jhw0094 jhw0094    0 Sep 22 11:03 sedfile.txt
+Rrw------- 1 jhw0094 jhw0094  326 Sep 22 11:03 sep08A.c
+Rrw------- 1 jhw0094 jhw0094  601 Sep 22 11:03 sep08B.c
+Rrw------- 1 jhw0094 jhw0094  188 Sep 22 11:03 sep08C.c
+Rrw------- 1 jhw0094 jhw0094  316 Sep 22 11:03 sep11A.c
+Rrw------- 1 jhw0094 jhw0094  409 Sep 22 11:03 sep11B.c
+Rrw------- 1 jhw0094 jhw0094  280 Sep 22 11:03 sep11C.c
+Rrw------- 1 jhw0094 jhw0094  181 Sep 22 11:03 sep11D.c
+Rrw------- 1 jhw0094 jhw0094  639 Sep 22 11:03 sep13A.c
+This is a new line
+Rrwx------ 1 jhw0094 jhw0094  205 Sep 22 11:03 sep20A.sh
+Rrwx------ 1 jhw0094 jhw0094  204 Sep 22 11:03 sep20B.sh
+Rrwx------ 1 jhw0094 jhw0094   27 Sep 22 11:03 test1.sh
+Rrwx------ 1 jhw0094 jhw0094   35 Sep 22 11:03 test2.sh
+Rrwx------ 1 jhw0094 jhw0094   42 Sep 22 11:03 test3.sh
+Rrwx------ 1 jhw0094 jhw0094   32 Sep 22 11:03 test4.sh
+Rrwx------ 1 jhw0094 jhw0094   32 Sep 22 11:03 test5.sh

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+if [ $1 = "today" ]
+then
+echo  `date '+%A'`
+elif [ $1 = "tomorrow" ]
+then
+echo `date -d '+1day' '+%A'`
+elif [ $1 = "yesterday" ]
+then
+echo `date -d '-1day' '+%A'`
+else
+echo 'Invalid option. Use "yesterday", "today", or "tomorrow"'
+
+fi

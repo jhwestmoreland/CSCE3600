@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [ $1 = "today" ]
+then
+awk –d '-7day'
+elif [ $1 = "tomorrow" ]
+then
+echo "Dumby"
+elif [ $1 = "yesterday" ]
+then
+echo "Stupid"
+fi
